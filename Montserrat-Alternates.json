@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Montserrat Alternates",
+    "previewText": "The insufferable amount of pain you went through doing this fills you with determination.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/jamlotrasoiaf/Montserrat-storage/raw/main/MontserratAlternates-Medium.ttf"
+    }
+}

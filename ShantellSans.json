@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Shantell Sans",
+    "previewText": "The insufferable amount of pain you went through doing this fills you with determination.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/ShantellSans-Medium.ttf"
+    }
+}

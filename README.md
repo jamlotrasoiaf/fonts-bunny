@@ -1,2 +1,2 @@
-# Montserrat-bunny
-for montserrat in bunny
+# fonts-bunny
+for fonts in bunny

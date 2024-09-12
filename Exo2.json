@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Exo2",
+    "previewText": "",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Black.ttf",
+        "ggsans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/main/Exo2-Medium.ttf"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Agave",
+    "previewText": "",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Black.ttf",
+        "ggsans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Agave/Agave-Medium.ttf"
+    }
+}

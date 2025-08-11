@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Shantell Sans",
+    "previewText": "The insufferable amount of pain you went through doing this fills you with determination.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-RegularItalic.ttf",
+        "ggsans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-RegularItalic.ttf",
+        "NotoSans-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/jamlotrasoiaf/font-storage/raw/refs/heads/main/Edu%20NSW%20ACT%20Foundation/EduNSWACTFoundation-Medium.ttf"
+    }
+}
